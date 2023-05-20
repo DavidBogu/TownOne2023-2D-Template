@@ -10,3 +10,6 @@ As well as some very basic project organization done.
 You can view some amazing tools to add to your project here (feel free to suggest more for future events):
 1. Colorful Hierachy Catergory GameObject: https://assetstore.unity.com/packages/tools/utilities/colourful-hierarchy-category-gameobject-205934
 2. Platformer Tileset- Pixelart Grasslands: https://assetstore.unity.com/packages/2d/environments/platformer-tileset-pixelart-grasslands-248158
+
+
+Note: Please protect your master branch! Go to settings->branches->add protection branch rule and enable Require a pull request before merging to avoid unneeded conflicts!
